@@ -1,0 +1,80 @@
+1
+Tiempo: 0
+1
+Tiempo: 0
+1
+Tiempo: 0
+3
+Tiempo: 0
+11
+Tiempo: 0
+3
+Tiempo: 0
+3
+Tiempo: 0
+13
+Tiempo: 0
+7
+Tiempo: 0
+32
+Tiempo: 0
+50
+Tiempo: 0
+125
+Tiempo: 0
+187
+Tiempo: 0
+159
+Tiempo: 0
+731
+Tiempo: 0
+1129
+Tiempo: 0
+2914
+Tiempo: 0
+5197
+Tiempo: 0.002
+7676
+Tiempo: 0.002
+15295
+Tiempo: 0.004
+26887
+Tiempo: 0.008
+57024
+Tiempo: 0.019
+95795
+Tiempo: 0.034
+188163
+Tiempo: 0.071
+363454
+Tiempo: 0.14
+746479
+Tiempo: 0.294
+712494
+Tiempo: 0.572
+2036129
+Tiempo: 1.158
+1351915
+Tiempo: 2.405
+8248091
+Tiempo: 4.76
+6284997
+Tiempo: 9.815
+33701883
+Tiempo: 18.163
+58690036
+Tiempo: 35.527
+104262588
+Tiempo: 71.649
+190420093
+Tiempo: 145.765
+64930544
+Tiempo: 282.718
+882838095
+Tiempo: 569.798
+1480118607
+Tiempo: 1132.21
+2570549675
+Tiempo: 2262.93
+6480330951
+Tiempo: 4495.51

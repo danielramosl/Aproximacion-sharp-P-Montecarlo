@@ -1,0 +1,100 @@
+1
+Tiempo: 0
+0
+Tiempo: 0
+3
+Tiempo: 0
+0
+Tiempo: 0
+1
+Tiempo: 0
+3
+Tiempo: 0
+2
+Tiempo: 0
+1
+Tiempo: 0.001
+2
+Tiempo: 0
+1
+Tiempo: 0.001
+3
+Tiempo: 0.002
+1
+Tiempo: 0.002
+5
+Tiempo: 0.005
+50
+Tiempo: 0.006
+51
+Tiempo: 0.009
+50
+Tiempo: 0.01
+107
+Tiempo: 0.023
+68
+Tiempo: 0.027
+340
+Tiempo: 0.033
+419
+Tiempo: 0.041
+1518
+Tiempo: 0.056
+1349
+Tiempo: 0.052
+3229
+Tiempo: 0.086
+3543
+Tiempo: 0.091
+2597
+Tiempo: 0.145
+16986
+Tiempo: 0.166
+41499
+Tiempo: 0.217
+87927
+Tiempo: 0.222
+24641
+Tiempo: 0.27
+111686
+Tiempo: 0.283
+151963
+Tiempo: 0.31
+377631
+Tiempo: 0.469
+2080796
+Tiempo: 0.419
+3664234
+Tiempo: 0.54
+6008599
+Tiempo: 0.66
+8516509
+Tiempo: 0.655
+20854612
+Tiempo: 0.796
+43343263
+Tiempo: 0.89
+38070087
+Tiempo: 1.052
+128551429
+Tiempo: 1.03
+302341612
+Tiempo: 1.07
+332751206
+Tiempo: 1.731
+236706263
+Tiempo: 1.505
+1523169245
+Tiempo: 1.895
+2032280060
+Tiempo: 2.042
+1204876612
+Tiempo: 2.451
+7933099118
+Tiempo: 2.496
+5265742246
+Tiempo: 3.057
+41476364378
+Tiempo: 3.481
+37580126054
+Tiempo: 3.3
