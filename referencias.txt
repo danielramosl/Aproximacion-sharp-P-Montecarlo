@@ -1,0 +1,8 @@
+[1] 	H. S. Wilf, Algorithms and Complexity, Pennsylvania: University of Pennsylvania, 1994. 
+[2] 	HSE University, Counting Problems (#P), Moscú: HSE University, 2019. 
+[3] 	L. G. Valiant, «"The Complexity of Enumeration and Reliability Problems",» SIAM Journal on Computing, vol. 8, nº 3, p. 410–421, 1979. 
+[4] 	P. Saavedra y V. H. Ibarra, El método Monte-Carlo y su aplicación a las finanzas, México: UAM Iztapalapa, 2008. 
+[5] 	R. E. Walpole, S. L. Myers y Y. Keying, Probabilidad y estadística para ingeniería y ciencias, México: Pearson Education, 2012. 
+[6] 	L. D. Ramos y M. G. Rodríguez, Intervalos de confianza de la evaluación del polinomio de una gráfica utilizando el método de Montecarlo, Ciudad de México: Universidad Autónoma Metropolitana Unidad Azcapotzalco, 2025.
+[7] 	Richard M. Stallman & GCC Developer Community, Using the GNU Compiler Collection (For GCC version 14.2.0), Massachusets: GNU Press, 2024. 
+[8] 	C++Reference, «Fixed width floating-point types (since C++23),» 3 Marzo 2024. [En línea]. Available: https://en.cppreference.com/w/cpp/types/floating-point.html [Último acceso: 2025 06 2025].
